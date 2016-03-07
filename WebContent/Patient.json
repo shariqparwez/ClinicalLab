@@ -1,0 +1,5 @@
+[
+	{"testCode":"TT1","testName":"BloodTest","testPrice":"123"},
+	{"testCode":"TT2","testName":"SampleTest","testPrice":"223"},	
+	{"testCode":"TT3","testName":"XYZTest","testPrice":"323"}	
+]
